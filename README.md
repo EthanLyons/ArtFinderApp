@@ -1,4 +1,4 @@
-# ArtFinderApp
+# Website Link Categorizer
 
 ### Website Link Categorizer
 ### App Name: JLinker
@@ -21,3 +21,8 @@
  who is in need of a categorization of often visited websites. It can do what other programs do in part
  
 
+
+
+# SQL paragraph
+
+My personal project could make great use of a SQL database. I could give each link an identity with time tags, name variable, all with user input and system automated values. I see particularly valuable implementation in my specific case
